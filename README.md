@@ -3,7 +3,7 @@ The fire alarm system project made using Arduino microcontroller. The project co
 
 MADE BY:- KANISHK BEHL
 
-<h1>THESE ARE THE CONNECTION TO BE DONE</h1>
+<h3>THIS IS THE REQUIRED CIRCUIT DIAGRAM</h3>
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="FIRE ALARM SYSTEM.png" alt="Logo" width="1500">
