@@ -3,6 +3,6 @@ The fire alarm system project made using Arduino microcontroller. The project co
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="FIRE ALARM SYSTEM.png" alt="Logo" width="200">
+    <img src="FIRE ALARM SYSTEM.png" alt="Logo" width="1500">
   </a>
 </div>
